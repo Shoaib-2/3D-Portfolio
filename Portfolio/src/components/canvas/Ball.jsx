@@ -12,7 +12,7 @@ const Ball = (props) => {
       <mesh castShadow receiveShadow scale={2.75}>
         <icosahedronGeometry args={[1, 1]} />
         <meshStandardMaterial 
-        color="#fff8eb"
+        color="#80d4ff"
         polygonOffset
         polygonOffsetFactor={-5}
         flatShading
@@ -37,7 +37,7 @@ const BallCanvas = ({icon}) => {
       gl={{ preserveDrawingBuffer: true }}
     >
       <Suspense fallback={<CanvasLoader />}>
-        <OrbitControls enableZoom={false} />
+        <OrbitControls enableZoom={false} autoRotate autoRotateSpeed={5}/>
         <Ball imgUrl={icon} />
       </Suspense>
 

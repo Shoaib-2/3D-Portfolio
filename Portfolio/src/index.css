@@ -11,6 +11,7 @@
   font-family: "Poppins", sans-serif;
   scroll-behavior: smooth;
   color-scheme: dark;
+  
 }
 
 .hash-span {
@@ -34,11 +35,11 @@
 }
 
 .violet-gradient {
-  background: #804dee;
-  background: linear-gradient(-90deg, #804dee 0%, rgba(60, 51, 80, 0) 100%);
+  background: #80d4ff;
+  background: linear-gradient(-90deg, #80d4ff 0%, rgba(60, 51, 80, 0) 100%);
   background: -webkit-linear-gradient(
     -90deg,
-    #804dee 0%,
+    #80d4ff 0%,
     rgba(60, 51, 80, 0) 100%
   );
 }

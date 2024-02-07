@@ -46,7 +46,7 @@ import {
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "React Developer",
       icon: mobile,
     },
     {
@@ -108,10 +108,6 @@ import {
       name: "figma",
       icon: figma,
     },
-    {
-      name: "docker",
-      icon: docker,
-    },
   ];
   
   const experiences = [
@@ -129,7 +125,7 @@ import {
       ],
     },
     {
-      title: "React Native Developer",
+      title: "React Developer",
       company_name: "Tesla",
       icon: tesla,
       iconBg: "#E6DEDD",
