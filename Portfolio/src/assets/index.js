@@ -21,13 +21,14 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+// import meta from "./company/meta.png";
+// import shopify from "./company/shopify.png";
+import radicalX from "./company/RadicalX.png";
+// import tesla from "./company/tesla.png";
 
-import carrent from "./3dportfolio.png";
-import jobit from "./visualsorting.png"
+// import carrent from "./3dportfolio.png";
+import portfolio from "./3dportfolio.png"
+import sorting from "./visualsorting.png"
 import chatMessenger from "./gptai_demo.png";
 
 export {
@@ -52,11 +53,11 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
-  carrent,
-  jobit,
+  // meta,
+  // shopify,
+  radicalX,
+  // tesla,
+  portfolio,
+  sorting,
   chatMessenger,
 };
