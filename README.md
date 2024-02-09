@@ -1,3 +1,8 @@
 # 3D-Portfolio
 
-My personal portfolio stands as a testament to my expertise and capabilities in the realm of web development. Leveraging a robust tech stack comprising React, Three.js, and Tailwind CSS, I showcase a seamless fusion of creativity and technical proficiency. Through dynamic and visually captivating user interfaces powered by React, coupled with the immersive 3D experiences crafted with Three.js, I demonstrate my mastery in crafting engaging web solutions. Tailwind CSS adds finesse to the design, ensuring responsive layouts and polished aesthetics. My portfolio not only highlights my skills but also serves as a testament to my commitment to innovation and excellence in web development.
+#My personal portfolio embodies my expertise in web development.
+#Utilizing a potent tech stack including React, Three.js, and Tailwind CSS, I deliver seamless user experiences.
+#Through React, I create dynamic and visually captivating user interfaces, showcasing creativity and technical prowess.
+#Three.js enables me to craft immersive 3D experiences, adding depth and interactivity to my portfolio.
+#Tailwind CSS ensures polished aesthetics and responsive layouts, enhancing the overall design.
+#My portfolio serves as a testament to my commitment to innovation and excellence in web development, showcasing my skills and abilities in a compelling manner.
