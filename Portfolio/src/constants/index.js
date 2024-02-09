@@ -21,8 +21,8 @@ import {
     shopify,
     carrent,
     jobit,
-    tripguide,
     threejs,
+    chatMessenger,
   } from "../assets";
   
   export const navLinks = [
@@ -194,67 +194,67 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "3D Porfolio",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "My personal portfolio stands as a testament to my expertise and capabilities in the realm of web development. Leveraging a robust tech stack comprising React, Three.js, and Tailwind CSS, I showcase a seamless fusion of creativity and technical proficiency.",
       tags: [
         {
-          name: "react",
+          name: "React",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "ThreeJS",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "TailwindCSS",
           color: "pink-text-gradient",
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Shoaib-2/3D-Portfolio",
     },
     {
-      name: "Job IT",
+      name: "Sorting Visualization",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "The overall aim of the project is to design and implement a web-based system to support lecturers and students on an algorithm design course, via a user-friendly interface and visualisation. The project is implemented using HTML, CSS, and JavaScript.",
       tags: [
         {
-          name: "react",
+          name: "HTML",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "CSS",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "JavaScript",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Shoaib-2/Sorting-Visualization",
     },
     {
-      name: "Trip Guide",
+      name: "GPT ChatMessenger",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "This project entails developing a sophisticated chat messenger application integrating OpenAI API, powered by a tech stack comprising Node.js, Express, React, and MongoDB for seamless user experiences. Key features include intelligent responses, real-time communication, and scalable architecture.",
       tags: [
         {
-          name: "nextjs",
+          name: "nodejs",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "React",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "Express",
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: chatMessenger,
+      source_code_link: "https://github.com/Shoaib-2/ChatMessengerAI",
     },
   ];
   
